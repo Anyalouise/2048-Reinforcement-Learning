@@ -1,3 +1,3 @@
 # 2048-Reinforcement-Learning
 
-To run, simply download the .ipynb and run all cells
+To run, simply clone the repo, open the .ipynb file, and run all cells
